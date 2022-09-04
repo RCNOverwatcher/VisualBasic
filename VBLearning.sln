@@ -8,17 +8,17 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBVariables2", "VBVariables
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBVariables3", "VBVariables3\VBVariables3.vbproj", "{21A6C1E1-D9E8-463E-A873-0AB48A61A0DE}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBIfStatments1", "VBIfStatments1\VBIfStatments1.vbproj", "{DBC04078-1165-4C3E-9BA9-6754F753E66D}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBIfStatements1", "VBIfStatements1\VBIfStatements1.vbproj", "{DBC04078-1165-4C3E-9BA9-6754F753E66D}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBIfStatments2", "VBIfStatments2\VBIfStatments2.vbproj", "{7B9D33A6-B1F2-4027-B8FE-A354BD8D8487}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBIfStatements2", "VBIfStatements2\VBIfStatements2.vbproj", "{7B9D33A6-B1F2-4027-B8FE-A354BD8D8487}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBIfStatments3", "VBIfStatments3\VBIfStatments3.vbproj", "{053E8758-4146-4D42-BB6C-8F20F8947324}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBIfStatements3", "VBIfStatements3\VBIfStatements3.vbproj", "{053E8758-4146-4D42-BB6C-8F20F8947324}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBCaseStatments1", "VBCaseStatments1\VBCaseStatments1.vbproj", "{33B93A3E-AD47-4B7B-B6DE-69291FD588A3}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBCaseStatements1", "VBCaseStatements1\VBCaseStatements1.vbproj", "{33B93A3E-AD47-4B7B-B6DE-69291FD588A3}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBCaseStatments2", "VBCaseStatments2\VBCaseStatments2.vbproj", "{57D34680-6464-4A30-A117-CBDED0772076}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBCaseStatements2", "VBCaseStatements2\VBCaseStatements2.vbproj", "{57D34680-6464-4A30-A117-CBDED0772076}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBCaseStatments3", "VBCaseStatments3\VBCaseStatments3.vbproj", "{8C783874-B58D-4F91-B198-285A49CE6D94}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBCaseStatements3", "VBCaseStatements3\VBCaseStatements3.vbproj", "{8C783874-B58D-4F91-B198-285A49CE6D94}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBForLoops1", "VBForLoops1\VBForLoops1.vbproj", "{E5313B82-686C-4E77-8017-EAE79D8182B8}"
 EndProject
