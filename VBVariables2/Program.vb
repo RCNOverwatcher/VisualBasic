@@ -1,3 +1,6 @@
+'Make a program that accepts 3 numbers from a console.readline()
+'adds them all together and then displays the numbers the person has typed in and the final answer
+
 Imports System
 
 Module Program

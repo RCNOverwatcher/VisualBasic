@@ -1,0 +1,15 @@
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\bin\Debug\net6.0\VBCaseStatments2.exe
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\bin\Debug\net6.0\VBCaseStatments2.deps.json
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\bin\Debug\net6.0\VBCaseStatments2.runtimeconfig.json
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\bin\Debug\net6.0\VBCaseStatments2.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\bin\Debug\net6.0\VBCaseStatments2.pdb
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\obj\Debug\net6.0\VBCaseStatments2.vbproj.AssemblyReference.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\obj\Debug\net6.0\VBCaseStatments2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\obj\Debug\net6.0\VBCaseStatments2.AssemblyInfoInputs.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\obj\Debug\net6.0\VBCaseStatments2.AssemblyInfo.vb
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\obj\Debug\net6.0\VBCaseStatments2.vbproj.CoreCompileInputs.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\obj\Debug\net6.0\VBCaseStatments2.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\obj\Debug\net6.0\refint\VBCaseStatments2.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\obj\Debug\net6.0\VBCaseStatments2.pdb
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\obj\Debug\net6.0\VBCaseStatments2.genruntimeconfig.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments2\obj\Debug\net6.0\ref\VBCaseStatments2.dll

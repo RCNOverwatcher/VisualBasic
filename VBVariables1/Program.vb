@@ -1,3 +1,6 @@
+'Modify the program in exercise 1 so that it accepts a number of questions and places them into variables.
+'At the end of the program, print out each of the answers to the screen
+
 Imports System
 
 Module Program

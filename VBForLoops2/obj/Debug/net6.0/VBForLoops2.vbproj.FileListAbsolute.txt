@@ -1,0 +1,15 @@
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\bin\Debug\net6.0\VBForLoops2.exe
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\bin\Debug\net6.0\VBForLoops2.deps.json
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\bin\Debug\net6.0\VBForLoops2.runtimeconfig.json
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\bin\Debug\net6.0\VBForLoops2.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\bin\Debug\net6.0\VBForLoops2.pdb
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\obj\Debug\net6.0\VBForLoops2.vbproj.AssemblyReference.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\obj\Debug\net6.0\VBForLoops2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\obj\Debug\net6.0\VBForLoops2.AssemblyInfoInputs.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\obj\Debug\net6.0\VBForLoops2.AssemblyInfo.vb
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\obj\Debug\net6.0\VBForLoops2.vbproj.CoreCompileInputs.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\obj\Debug\net6.0\VBForLoops2.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\obj\Debug\net6.0\refint\VBForLoops2.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\obj\Debug\net6.0\VBForLoops2.pdb
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\obj\Debug\net6.0\VBForLoops2.genruntimeconfig.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBForLoops2\obj\Debug\net6.0\ref\VBForLoops2.dll

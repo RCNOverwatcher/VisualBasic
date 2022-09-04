@@ -1,3 +1,6 @@
+'Modify the program further so that it asks for a person’s name and their two favourite numbers
+'and displays their name and the numbers they have given and what the answer is when MULTIPLIED
+
 Imports System
 
 Module Program

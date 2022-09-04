@@ -1,0 +1,15 @@
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\bin\Debug\net6.0\VBIfStatments3.exe
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\bin\Debug\net6.0\VBIfStatments3.deps.json
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\bin\Debug\net6.0\VBIfStatments3.runtimeconfig.json
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\bin\Debug\net6.0\VBIfStatments3.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\bin\Debug\net6.0\VBIfStatments3.pdb
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\obj\Debug\net6.0\VBIfStatments3.vbproj.AssemblyReference.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\obj\Debug\net6.0\VBIfStatments3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\obj\Debug\net6.0\VBIfStatments3.AssemblyInfoInputs.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\obj\Debug\net6.0\VBIfStatments3.AssemblyInfo.vb
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\obj\Debug\net6.0\VBIfStatments3.vbproj.CoreCompileInputs.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\obj\Debug\net6.0\VBIfStatments3.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\obj\Debug\net6.0\refint\VBIfStatments3.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\obj\Debug\net6.0\VBIfStatments3.pdb
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\obj\Debug\net6.0\VBIfStatments3.genruntimeconfig.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBIfStatments3\obj\Debug\net6.0\ref\VBIfStatments3.dll

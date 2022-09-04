@@ -1,3 +1,5 @@
+'Use the console Consolw.WriteLine and Console.ReadLine to ask the user a number of questions that they have to respond to.
+
 Imports System
 
 Module Program

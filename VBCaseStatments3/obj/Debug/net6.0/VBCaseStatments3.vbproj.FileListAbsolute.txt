@@ -1,0 +1,15 @@
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\obj\Debug\net6.0\VBCaseStatments3.vbproj.AssemblyReference.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\obj\Debug\net6.0\VBCaseStatments3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\obj\Debug\net6.0\VBCaseStatments3.AssemblyInfoInputs.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\obj\Debug\net6.0\VBCaseStatments3.AssemblyInfo.vb
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\obj\Debug\net6.0\VBCaseStatments3.vbproj.CoreCompileInputs.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\bin\Debug\net6.0\VBCaseStatments3.exe
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\bin\Debug\net6.0\VBCaseStatments3.deps.json
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\bin\Debug\net6.0\VBCaseStatments3.runtimeconfig.json
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\bin\Debug\net6.0\VBCaseStatments3.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\bin\Debug\net6.0\VBCaseStatments3.pdb
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\obj\Debug\net6.0\VBCaseStatments3.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\obj\Debug\net6.0\refint\VBCaseStatments3.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\obj\Debug\net6.0\VBCaseStatments3.pdb
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\obj\Debug\net6.0\VBCaseStatments3.genruntimeconfig.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBCaseStatments3\obj\Debug\net6.0\ref\VBCaseStatments3.dll

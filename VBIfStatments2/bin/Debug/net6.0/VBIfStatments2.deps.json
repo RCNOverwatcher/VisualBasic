@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VBIfStatments2/1.0.0": {
+        "runtime": {
+          "VBIfStatments2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VBIfStatments2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
