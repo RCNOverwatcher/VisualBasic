@@ -1,0 +1,15 @@
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\bin\Debug\net6.0\VBVariables2.exe
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\bin\Debug\net6.0\VBVariables2.deps.json
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\bin\Debug\net6.0\VBVariables2.runtimeconfig.json
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\bin\Debug\net6.0\VBVariables2.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\bin\Debug\net6.0\VBVariables2.pdb
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\obj\Debug\net6.0\VBVariables2.vbproj.AssemblyReference.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\obj\Debug\net6.0\VBVariables2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\obj\Debug\net6.0\VBVariables2.AssemblyInfoInputs.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\obj\Debug\net6.0\VBVariables2.AssemblyInfo.vb
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\obj\Debug\net6.0\VBVariables2.vbproj.CoreCompileInputs.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\obj\Debug\net6.0\VBVariables2.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\obj\Debug\net6.0\refint\VBVariables2.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\obj\Debug\net6.0\VBVariables2.pdb
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\obj\Debug\net6.0\VBVariables2.genruntimeconfig.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables2\obj\Debug\net6.0\ref\VBVariables2.dll

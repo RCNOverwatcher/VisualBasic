@@ -1,0 +1,15 @@
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\bin\Debug\net6.0\VBVariables3.exe
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\bin\Debug\net6.0\VBVariables3.deps.json
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\bin\Debug\net6.0\VBVariables3.runtimeconfig.json
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\bin\Debug\net6.0\VBVariables3.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\bin\Debug\net6.0\VBVariables3.pdb
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\obj\Debug\net6.0\VBVariables3.vbproj.AssemblyReference.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\obj\Debug\net6.0\VBVariables3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\obj\Debug\net6.0\VBVariables3.AssemblyInfoInputs.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\obj\Debug\net6.0\VBVariables3.AssemblyInfo.vb
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\obj\Debug\net6.0\VBVariables3.vbproj.CoreCompileInputs.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\obj\Debug\net6.0\VBVariables3.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\obj\Debug\net6.0\refint\VBVariables3.dll
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\obj\Debug\net6.0\VBVariables3.pdb
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\obj\Debug\net6.0\VBVariables3.genruntimeconfig.cache
+C:\Jake\Coding\Visual Basic\VBLearning\VBVariables3\obj\Debug\net6.0\ref\VBVariables3.dll
