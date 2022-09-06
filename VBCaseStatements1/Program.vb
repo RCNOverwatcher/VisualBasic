@@ -1,4 +1,4 @@
-'Modify your calculator program, use a CASE Statement instead of IF’s
+'Modify your calculator program, use a CASE Statement instead of IF’s.
 
 Imports System
 
