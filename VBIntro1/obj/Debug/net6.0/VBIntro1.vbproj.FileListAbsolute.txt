@@ -13,3 +13,18 @@ C:\Jake\Coding\Visual Basic\VBLearning\VBIntro1\obj\Debug\net6.0\refint\VBIntro1
 C:\Jake\Coding\Visual Basic\VBLearning\VBIntro1\obj\Debug\net6.0\VBIntro1.pdb
 C:\Jake\Coding\Visual Basic\VBLearning\VBIntro1\obj\Debug\net6.0\VBIntro1.genruntimeconfig.cache
 C:\Jake\Coding\Visual Basic\VBLearning\VBIntro1\obj\Debug\net6.0\ref\VBIntro1.dll
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\bin\Debug\net6.0\VBIntro1.exe
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\bin\Debug\net6.0\VBIntro1.deps.json
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\bin\Debug\net6.0\VBIntro1.runtimeconfig.json
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\bin\Debug\net6.0\VBIntro1.dll
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\bin\Debug\net6.0\VBIntro1.pdb
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\obj\Debug\net6.0\VBIntro1.vbproj.AssemblyReference.cache
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\obj\Debug\net6.0\VBIntro1.GeneratedMSBuildEditorConfig.editorconfig
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\obj\Debug\net6.0\VBIntro1.AssemblyInfoInputs.cache
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\obj\Debug\net6.0\VBIntro1.AssemblyInfo.vb
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\obj\Debug\net6.0\VBIntro1.vbproj.CoreCompileInputs.cache
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\obj\Debug\net6.0\VBIntro1.dll
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\obj\Debug\net6.0\refint\VBIntro1.dll
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\obj\Debug\net6.0\VBIntro1.pdb
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\obj\Debug\net6.0\VBIntro1.genruntimeconfig.cache
+C:\17wiltsjac\programming\VisualBasic\VBIntro1\obj\Debug\net6.0\ref\VBIntro1.dll
