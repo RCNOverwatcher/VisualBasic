@@ -24,6 +24,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBForLoops1", "VBForLoops1\
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBForLoops2", "VBForLoops2\VBForLoops2.vbproj", "{BB3ECEC6-7A3C-4629-92DF-84B78251F6C7}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBWhileLoops1", "VBWhileLoops1\VBWhileLoops1.vbproj", "{48F8F3E6-9347-465F-B478-5C8071963C80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{BB3ECEC6-7A3C-4629-92DF-84B78251F6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB3ECEC6-7A3C-4629-92DF-84B78251F6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB3ECEC6-7A3C-4629-92DF-84B78251F6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F8F3E6-9347-465F-B478-5C8071963C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F8F3E6-9347-465F-B478-5C8071963C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F8F3E6-9347-465F-B478-5C8071963C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F8F3E6-9347-465F-B478-5C8071963C80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

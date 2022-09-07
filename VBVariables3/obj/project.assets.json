@@ -20,12 +20,14 @@
       "outputPath": "C:\\17wiltsjac\\programming\\VisualBasic\\VBVariables3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\17wiltsjac\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\17wiltsjac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\17wiltsjac\\dotnet-sdk-6.0.301-win-x64\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\17wiltsjac\\dotnet sdk 6\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
