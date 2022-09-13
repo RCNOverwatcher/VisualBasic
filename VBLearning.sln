@@ -30,6 +30,10 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBWhileLoops2", "VBWhileLoo
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBWhileLoops3", "VBWhileLoops3\VBWhileLoops3.vbproj", "{92B78B76-2C03-43D6-AD06-DEF81ED0E88F}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBArrays1", "VBArrays1\VBArrays1.vbproj", "{1F23D1C3-177F-414C-AA64-84CC7C08FDA5}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBArrays2", "VBArrays2\VBArrays2.vbproj", "{B72EAC4F-AF98-424B-A4C7-640768B21980}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +100,13 @@ Global
 		{92B78B76-2C03-43D6-AD06-DEF81ED0E88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92B78B76-2C03-43D6-AD06-DEF81ED0E88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92B78B76-2C03-43D6-AD06-DEF81ED0E88F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F23D1C3-177F-414C-AA64-84CC7C08FDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F23D1C3-177F-414C-AA64-84CC7C08FDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F23D1C3-177F-414C-AA64-84CC7C08FDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F23D1C3-177F-414C-AA64-84CC7C08FDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72EAC4F-AF98-424B-A4C7-640768B21980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72EAC4F-AF98-424B-A4C7-640768B21980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72EAC4F-AF98-424B-A4C7-640768B21980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72EAC4F-AF98-424B-A4C7-640768B21980}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
