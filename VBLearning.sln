@@ -26,6 +26,10 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBForLoops2", "VBForLoops2\
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBWhileLoops1", "VBWhileLoops1\VBWhileLoops1.vbproj", "{48F8F3E6-9347-465F-B478-5C8071963C80}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBWhileLoops2", "VBWhileLoops2\VBWhileLoops2.vbproj", "{0CEF20AA-419C-4EF7-A842-A44BA1CEBE13}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBWhileLoops3", "VBWhileLoops3\VBWhileLoops3.vbproj", "{92B78B76-2C03-43D6-AD06-DEF81ED0E88F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +88,13 @@ Global
 		{48F8F3E6-9347-465F-B478-5C8071963C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48F8F3E6-9347-465F-B478-5C8071963C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48F8F3E6-9347-465F-B478-5C8071963C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CEF20AA-419C-4EF7-A842-A44BA1CEBE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CEF20AA-419C-4EF7-A842-A44BA1CEBE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CEF20AA-419C-4EF7-A842-A44BA1CEBE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CEF20AA-419C-4EF7-A842-A44BA1CEBE13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B78B76-2C03-43D6-AD06-DEF81ED0E88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B78B76-2C03-43D6-AD06-DEF81ED0E88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B78B76-2C03-43D6-AD06-DEF81ED0E88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B78B76-2C03-43D6-AD06-DEF81ED0E88F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

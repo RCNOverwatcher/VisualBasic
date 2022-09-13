@@ -1,0 +1,15 @@
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\bin\Debug\net6.0\VBWhileLoops1.exe
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\bin\Debug\net6.0\VBWhileLoops1.deps.json
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\bin\Debug\net6.0\VBWhileLoops1.runtimeconfig.json
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\bin\Debug\net6.0\VBWhileLoops1.dll
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\bin\Debug\net6.0\VBWhileLoops1.pdb
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\obj\Debug\net6.0\VBWhileLoops1.vbproj.AssemblyReference.cache
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\obj\Debug\net6.0\VBWhileLoops1.GeneratedMSBuildEditorConfig.editorconfig
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\obj\Debug\net6.0\VBWhileLoops1.AssemblyInfoInputs.cache
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\obj\Debug\net6.0\VBWhileLoops1.AssemblyInfo.vb
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\obj\Debug\net6.0\VBWhileLoops1.vbproj.CoreCompileInputs.cache
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\obj\Debug\net6.0\VBWhileLoops1.dll
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\obj\Debug\net6.0\refint\VBWhileLoops1.dll
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\obj\Debug\net6.0\VBWhileLoops1.pdb
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\obj\Debug\net6.0\VBWhileLoops1.genruntimeconfig.cache
+C:\17wiltsjac\programming\VisualBasic\VBWhileLoops1\obj\Debug\net6.0\ref\VBWhileLoops1.dll
