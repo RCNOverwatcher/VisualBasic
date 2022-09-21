@@ -1,0 +1,15 @@
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\bin\Debug\net6.0\VBArrays1.exe
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\bin\Debug\net6.0\VBArrays1.deps.json
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\bin\Debug\net6.0\VBArrays1.runtimeconfig.json
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\bin\Debug\net6.0\VBArrays1.dll
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\bin\Debug\net6.0\VBArrays1.pdb
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\obj\Debug\net6.0\VBArrays1.vbproj.AssemblyReference.cache
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\obj\Debug\net6.0\VBArrays1.GeneratedMSBuildEditorConfig.editorconfig
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\obj\Debug\net6.0\VBArrays1.AssemblyInfoInputs.cache
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\obj\Debug\net6.0\VBArrays1.AssemblyInfo.vb
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\obj\Debug\net6.0\VBArrays1.vbproj.CoreCompileInputs.cache
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\obj\Debug\net6.0\VBArrays1.dll
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\obj\Debug\net6.0\refint\VBArrays1.dll
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\obj\Debug\net6.0\VBArrays1.pdb
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\obj\Debug\net6.0\VBArrays1.genruntimeconfig.cache
+C:\17wiltsjac\programming\VisualBasic\VBArrays1\obj\Debug\net6.0\ref\VBArrays1.dll
