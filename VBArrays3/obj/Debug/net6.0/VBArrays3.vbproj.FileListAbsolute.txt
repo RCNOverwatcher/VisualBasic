@@ -1,0 +1,15 @@
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\bin\Debug\net6.0\VBArrays3.exe
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\bin\Debug\net6.0\VBArrays3.deps.json
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\bin\Debug\net6.0\VBArrays3.runtimeconfig.json
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\bin\Debug\net6.0\VBArrays3.dll
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\bin\Debug\net6.0\VBArrays3.pdb
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\obj\Debug\net6.0\VBArrays3.vbproj.AssemblyReference.cache
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\obj\Debug\net6.0\VBArrays3.GeneratedMSBuildEditorConfig.editorconfig
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\obj\Debug\net6.0\VBArrays3.AssemblyInfoInputs.cache
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\obj\Debug\net6.0\VBArrays3.AssemblyInfo.vb
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\obj\Debug\net6.0\VBArrays3.vbproj.CoreCompileInputs.cache
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\obj\Debug\net6.0\VBArrays3.dll
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\obj\Debug\net6.0\refint\VBArrays3.dll
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\obj\Debug\net6.0\VBArrays3.pdb
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\obj\Debug\net6.0\VBArrays3.genruntimeconfig.cache
+C:\17wiltsjac\programming\VisualBasic\VBArrays3\obj\Debug\net6.0\ref\VBArrays3.dll

@@ -34,6 +34,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBArrays1", "VBArrays1\VBAr
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBArrays2", "VBArrays2\VBArrays2.vbproj", "{B72EAC4F-AF98-424B-A4C7-640768B21980}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBArrays3", "VBArrays3\VBArrays3.vbproj", "{03733CB9-5ED1-4C1F-A88A-C535C3960DB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{B72EAC4F-AF98-424B-A4C7-640768B21980}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B72EAC4F-AF98-424B-A4C7-640768B21980}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B72EAC4F-AF98-424B-A4C7-640768B21980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03733CB9-5ED1-4C1F-A88A-C535C3960DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03733CB9-5ED1-4C1F-A88A-C535C3960DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03733CB9-5ED1-4C1F-A88A-C535C3960DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03733CB9-5ED1-4C1F-A88A-C535C3960DB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
