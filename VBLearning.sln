@@ -36,6 +36,10 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBArrays2", "VBArrays2\VBAr
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBArrays3", "VBArrays3\VBArrays3.vbproj", "{03733CB9-5ED1-4C1F-A88A-C535C3960DB6}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBTestProblem1", "VBTestProblem1\VBTestProblem1.vbproj", "{67B8DB93-0D64-4105-9470-1CC9EE215D49}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBTestProblem2", "VBTestProblem2\VBTestProblem2.vbproj", "{D69161F6-0056-4F14-9705-9E98E9CCEC80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +118,13 @@ Global
 		{03733CB9-5ED1-4C1F-A88A-C535C3960DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03733CB9-5ED1-4C1F-A88A-C535C3960DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03733CB9-5ED1-4C1F-A88A-C535C3960DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B8DB93-0D64-4105-9470-1CC9EE215D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B8DB93-0D64-4105-9470-1CC9EE215D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B8DB93-0D64-4105-9470-1CC9EE215D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B8DB93-0D64-4105-9470-1CC9EE215D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D69161F6-0056-4F14-9705-9E98E9CCEC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69161F6-0056-4F14-9705-9E98E9CCEC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69161F6-0056-4F14-9705-9E98E9CCEC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69161F6-0056-4F14-9705-9E98E9CCEC80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
