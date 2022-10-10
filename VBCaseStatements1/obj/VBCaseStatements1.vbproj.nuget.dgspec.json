@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\17wiltsjac\\programming\\VisualBasic\\VBCaseStatements1\\VBCaseStatements1.vbproj": {}
+    "C:\\Users\\jacob\\programming\\VisualBasic\\VBCaseStatements1\\VBCaseStatements1.vbproj": {}
   },
   "projects": {
-    "C:\\17wiltsjac\\programming\\VisualBasic\\VBCaseStatements1\\VBCaseStatements1.vbproj": {
+    "C:\\Users\\jacob\\programming\\VisualBasic\\VBCaseStatements1\\VBCaseStatements1.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\17wiltsjac\\programming\\VisualBasic\\VBCaseStatements1\\VBCaseStatements1.vbproj",
+        "projectUniqueName": "C:\\Users\\jacob\\programming\\VisualBasic\\VBCaseStatements1\\VBCaseStatements1.vbproj",
         "projectName": "VBCaseStatements1",
-        "projectPath": "C:\\17wiltsjac\\programming\\VisualBasic\\VBCaseStatements1\\VBCaseStatements1.vbproj",
-        "packagesPath": "C:\\Users\\17wiltsjac\\.nuget\\packages\\",
-        "outputPath": "C:\\17wiltsjac\\programming\\VisualBasic\\VBCaseStatements1\\obj\\",
+        "projectPath": "C:\\Users\\jacob\\programming\\VisualBasic\\VBCaseStatements1\\VBCaseStatements1.vbproj",
+        "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jacob\\programming\\VisualBasic\\VBCaseStatements1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\17wiltsjac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\17wiltsjac\\dotnet sdk 6\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\jacob\\.dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
